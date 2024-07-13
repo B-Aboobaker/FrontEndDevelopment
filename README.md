@@ -1,4 +1,4 @@
-# FrontEndDevelopment
+# Front-End Development
 If you are new to FrontEnd Development, check out this repository - HTML | CSS | JavaScript
 
 ## Girl Develop It
