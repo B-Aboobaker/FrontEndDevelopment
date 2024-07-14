@@ -52,5 +52,30 @@ When developing this project it was basically a free for all - express yourself 
 
 ## PUBG
 ### Overview:
+This project was about creating a Gaming Store website which highlights my favourite game at the time PUBG (PlayerUnknown's Battlegrounds). Some of the things that I've learnt from this project include:
+- Logos
+- Transitions
+- SVGs
+- Videos
+- Embedding Maps
+- Slide Shows
+- Database for CRUD operations
+
+### Landing page:
+<img src="" alt="">
+
+### Home page:
+
+
+### About page:
+
+
+### Gallery page:
+
+
+### Contact page:
+
+
+### Database:
 
 
