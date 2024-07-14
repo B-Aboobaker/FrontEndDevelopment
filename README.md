@@ -1,11 +1,11 @@
 # Front-End Development
-If you are new to FrontEnd Development, check out this repository - HTML | CSS | JavaScript
+If you are new to Front-End Development, check out this repository - HTML | CSS | JavaScript
 
 ## Context
-This repository demonstrates the beginning of my Front-End development journery with 'GirlDevelopIt' being one of my very first ever web pages.
+This repository demonstrates the beginning of my Front-End development journey, with 'GirlDevelopIt' being one of my very first web pages.
 
 ## Table of Contents
-- [Front-End Development](#frontenddevelopment)
+- [Front-End Development](#front-end-development)
 - [Context](#context)
 - [Table of Contents](#table-of-contents)
 - [Girl Develop It](#girl-develop-it)
@@ -14,8 +14,8 @@ This repository demonstrates the beginning of my Front-End development journery 
 
 
 ## Girl Develop It
-### Overview:
-When creating this project, the purpose was to gain a basic understanding of HTML as well as how HTML elements work together and the capabilities. Some of these things include:
+### Overview
+When creating this project, the purpose was to gain a basic understanding of HTML and how HTML elements work together. Some of the elements include:
 - HTML tags `<>`
 - Images
 - Text boxes
@@ -30,9 +30,9 @@ When creating this project, the purpose was to gain a basic understanding of HTM
 
 
 ## Personal Portfolio
-### Overview:
-When developing this project it was basically a free for all - express yourself - type of a project, being a Personal Portfolio project. Some of the things that I've learnt from this project inclue:
-- CSS for styling the HTML
+### Overview
+This project was a free-form, self-expressive Personal Portfolio project. Some of the things I learned from this project include:
+- CSS for styling HTML
 - Navigation bar 
 - Adding JavaScript to customize certain elements
 - Forms (Contact Me page)
@@ -51,8 +51,8 @@ When developing this project it was basically a free for all - express yourself 
 
 
 ## PUBG
-### Overview:
-This project was about creating a Gaming Store website which highlights my favourite game at the time PUBG (PlayerUnknown's Battlegrounds). Some of the things that I've learnt from this project include:
+### Overview
+This project involved creating a Gaming Store website featuring my favorite game at the time, PUBG (PlayerUnknown's Battlegrounds). Some of the things I learned from this project include:
 - Logos
 - Transitions
 - SVGs
