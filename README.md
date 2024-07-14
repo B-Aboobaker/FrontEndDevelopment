@@ -1,16 +1,16 @@
 # Front-End Development
 If you are new to FrontEnd Development, check out this repository - HTML | CSS | JavaScript
 
+## Context
+This repository demonstrates the beginning of my Front-End development journery with 'GirlDevelopIt' being one of my very first ever web pages.
+
 ## Table of Contents
 - [Front-End Development](#frontenddevelopment)
-- [Table of Contents](#table-of-contents)
 - [Context](#context)
+- [Table of Contents](#table-of-contents)
 - [Girl Develop It](#girl-develop-it)
 - [Personal Portfolio](#personal-portfolio)
 - [PUBG](#pubg)
-
-## Context
-This repository demonstrates the beginning of my Front-End development journery with 'GirlDevelopIt' being one of my very first ever web pages.
 
 
 ## Girl Develop It
@@ -62,20 +62,35 @@ This project was about creating a Gaming Store website which highlights my favou
 - Database for CRUD operations
 
 ### Landing page:
-<img src="" alt="">
+<img src="PUBG/assets/images/screenshots/PUBG1.png" alt="">
 
 ### Home page:
-
+<img src="PUBG/assets/images/screenshots/PUBG2_1.png" alt=""><br>
+<img src="PUBG/assets/images/screenshots/PUBG2_2.png" alt="">
 
 ### About page:
-
+<img src="PUBG/assets/images/screenshots/PUBG3_1.png" alt=""><br>
+<img src="PUBG/assets/images/screenshots/PUBG3_2.png" alt=""><br>
+<img src="PUBG/assets/images/screenshots/PUBG3_3.png" alt="">
 
 ### Gallery page:
+<img src="PUBG/assets/images/screenshots/PUBG4_1.png" alt=""><br>
+<img src="PUBG/assets/images/screenshots/PUBG4_2.png" alt=""><br>
 
+#### Maps showing all the stores where PUBG is available:
+<img src="PUBG/assets/images/screenshots/PUBG4_3.png" alt="">
 
 ### Contact page:
+<img src="PUBG/assets/images/screenshots/PUBG5_1.png" alt=""><br>
+<img src="PUBG/assets/images/screenshots/PUBG5_2.png" alt="">
 
+### Database (CRUD):
+#### Read:
+<img src="PUBG/assets/images/screenshots/PUBG6_1.png" alt=""><br>
 
-### Database:
+#### Read + Delete:
+<img src="PUBG/assets/images/screenshots/PUBG6_2.png" alt=""><br>
 
+#### Create:
+<img src="PUBG/assets/images/screenshots/PUBG6_3.png" alt="">
 
